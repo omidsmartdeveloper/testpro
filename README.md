@@ -39,7 +39,7 @@ Diese Liste an CIDs wird wiederum ins IPFS hochgeladen und mittels SHA-256 verha
 
 ## Install
 
-## Get Started
+## Get Started with P2P-Demoprotokoll
 
 1. git clone this repo 
 2. run ```npm i``` in root directory
