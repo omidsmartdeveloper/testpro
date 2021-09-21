@@ -21,7 +21,7 @@ Diese Liste an CIDs wird wiederum ins IPFS hochgeladen und mittels SHA-256 verha
 
 ## Table of Contents
 
-- [Einleitung?](#Einleitung)
+- [Einleitung](#Einleitung)
 - [Background](#background)
 - [Get Started](#Get Started)
 - [Usage](#usage)
