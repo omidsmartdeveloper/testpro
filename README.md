@@ -23,7 +23,7 @@ Diese Liste an CIDs wird wiederum ins IPFS hochgeladen und mittels SHA-256 verha
 
 - [Einleitung](#Einleitung)
 - [Background](#background)
-- [Get Started](#Get Started)
+- [Get Started](#GetStarted)
 - [Usage](#usage)
 - [API](#api)
 - [Contributing](#contributing)
