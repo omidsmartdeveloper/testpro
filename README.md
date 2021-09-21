@@ -8,7 +8,7 @@
 [![license](https://img.shields.io/github/license/:user/:repo.svg)](LICENSE)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-Was ist BlockPro?
+Einleitung?
 ---
 Im Rahmen des BlockPro-Projekts wird ein Blockchainbasierter Herkunftsnachweis für erneuerbare Energien entwickelt, bei dem Transaktionen zwischen Energieerzeugern und Verbrauchern manipulations- und revisionssicher gespeichert werden. BlockPro erhebt genaue Daten für Peer-to-Peer-Transaktionen, sodass die jährliche Spitzenlast ausgeglichen und Netznutzungsentgelte eingespart werden. Derzeit arbeitet BlockPro an dem Beispiel Consolino2IPFS und erhält viertelstündlich den Zählerstand über einen optischen Lesekopf. Anschließend werden die Zählerdaten mit dem zugehörigen Wert der CID mittels SHA-256 gehasht und in das Inter Planetary File System geladen.
 
@@ -21,9 +21,9 @@ Diese Liste an CIDs wird wiederum ins IPFS hochgeladen und mittels SHA-256 verha
 
 ## Table of Contents
 
-- [Zusammenfassung](#Zusammenfassung)
+- [Einleitung?](#Einleitung)
 - [Background](#background)
-- [Install](#install)
+- [Get Started](#Get Started)
 - [Usage](#usage)
 - [API](#api)
 - [Contributing](#contributing)
